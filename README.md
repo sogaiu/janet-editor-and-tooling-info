@@ -9,10 +9,9 @@ start a succession of fresh Janet processes.
 
 See [here](doc/dev-styles.md) for more details.
 
-## Editors
+## Editors and Such
 
-There is support for Janet (to varying degrees) for multiple editors
-including:
+There is support for Janet (to varying degrees) in:
 
 * [CudaText](doc/cudatext.md)
 * [Emacs](doc/emacs.md)
@@ -20,6 +19,7 @@ including:
 * [Kakoune](doc/kakoune.md)
 * [Neovim](doc/neovim.md)
 * [Sublime Text](doc/sublime-text.md)
+* [TIC-80](doc/tic-80.md)
 * [Vim](doc/vim.md)
 * [VSCode](doc/vscode.md)
 
@@ -79,3 +79,7 @@ Some testing options include:
     testing library for Janet."
 
   * [janet-usages-as-tests](https://github.com/sogaiu/janet-usages-as-tests) - simple usage examples that work as tests
+
+## Credits
+
+See [here](doc/credits.md) for helpful folks :)
