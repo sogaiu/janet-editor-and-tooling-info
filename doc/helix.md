@@ -1,0 +1,13 @@
+# Helix
+
+Helix started shipping with Janet support since
+[24.03](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2403-2024-03-30)
+and includes features such as:
+
+* Syntax highlighting
+* Formatting
+
+## Meta
+
+* Primary Maintainer: None
+* Status: Basic functionality added
