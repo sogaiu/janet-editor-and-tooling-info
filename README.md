@@ -35,7 +35,9 @@ Below are some editor-independent tools with Janet support:
 
 * netrepl - [janet-netrepl](https://github.com/janet-lang/spork/blob/e598ef4c154974b9f15a1d632727389df4dccbd0/bin/janet-netrepl) (part of spork)
 
-* Linting - [review-janet](https://github.com/sogaiu/review-janet)
+* Linting
+  * `janet -k` aka [`flycheck` in `boot.janet`](https://github.com/janet-lang/janet/blob/dc325188d064f22e4a128b892eaf919289936eac/src/boot/boot.janet#L3953-L3967)
+  * [review-janet](https://github.com/sogaiu/review-janet)
 
 * Misc Reference Helpers
   * [janet-pegdoc](https://github.com/sogaiu/janet-pegdoc)
