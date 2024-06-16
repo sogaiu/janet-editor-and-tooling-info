@@ -17,7 +17,7 @@ functionality.  Apart from the ability to connect over a network, a
 notable benefit of the netrepl approach is better asynchronous
 behavior compared to that of the stdio connection.
 
-In both case there is the usual downside of potentially unexpected
+In both cases there is the usual downside of potentially unexpected
 behavior due to state mutation, but this option can still be useful.
 
 ## Multiple Fresh Janet Processes
