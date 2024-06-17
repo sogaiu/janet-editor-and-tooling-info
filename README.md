@@ -25,7 +25,8 @@ There is support for Janet (to varying degrees) in:
 
 ## Editor-Independent Tooling
 
-Below are some editor-independent tools with Janet support:
+Below are some editor-independent tools with Janet support that I've
+seen some use of:
 
 * Diffing - [difftastic](https://github.com/Wilfred/difftastic)
 
