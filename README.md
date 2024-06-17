@@ -42,6 +42,7 @@ Below are some editor-independent tools with Janet support:
 * Misc Reference Helpers
   * [janet-pegdoc](https://github.com/sogaiu/janet-pegdoc)
   * [janet-ref](https://github.com/sogaiu/janet-ref)
+  * [jdoc](https://github.com/sogaiu/jdoc)
 
 * LSP - [CFiggers' janet-lsp](https://github.com/CFiggers/janet-lsp)
 
