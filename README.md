@@ -46,9 +46,7 @@ Below are some editor-independent tools with Janet support:
 
 * LSP - [CFiggers' janet-lsp](https://github.com/CFiggers/janet-lsp)
 
-* tree-sitter
-  * [tree-sitter-janet](https://github.com/GrayJack/tree-sitter-janet)
-  * [tree-sitter-janet-simple](https://github.com/sogaiu/tree-sitter-janet-simple)
+* tree-sitter - [tree-sitter-janet-simple](https://github.com/sogaiu/tree-sitter-janet-simple)
 
 ## Testing
 
@@ -67,9 +65,6 @@ Some testing options include:
   * [testament](https://github.com/pyrmont/testament) - "takes
     inspiration from Joy's Tester library and Clojure's clojure.test
     library"
-
-  * [tester](https://github.com/joy-framework/tester) - would be nice
-    to have a good summary here :)
 
 * Other
 
