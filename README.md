@@ -69,9 +69,8 @@ Some testing options include:
 
 * Other
 
-  * [judge](https://github.com/ianthehenry/judge) - "[self-modifying
-    test
-    library](https://ianthehenry.com/posts/janet-game/judging-janet/)"
+  * [judge](https://github.com/ianthehenry/judge) - "library for
+    writing inline snapshot tests"
 
   * [golden-master](https://github.com/yumaikas/golden-master) -
     "[golden-master](https://en.wikipedia.org/wiki/Characterization_test)
