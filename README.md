@@ -1,5 +1,10 @@
 # Janet Editor and Tooling Info
 
+## One Big List
+
+If you just want to see the information as a `.tsv` file,
+[here](listing.tsv) you go :)
+
 ## Development Styles
 
 It's possible to interact with a running janet process using what's
