@@ -7,7 +7,3 @@ and includes features such as:
 * Syntax highlighting
 * Formatting
 
-## Meta
-
-* Primary Maintainer: None
-* Status: Basic functionality added

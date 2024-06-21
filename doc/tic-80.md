@@ -12,7 +12,3 @@
 One can write games in a variety of languages (including Janet!) using
 its built-in editor.
 
-## Meta
-
-* Primary maintainer (Janet Support): AlecTroemel
-* Status: Ongoing development

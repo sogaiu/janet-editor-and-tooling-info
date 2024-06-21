@@ -9,8 +9,3 @@ Some features include:
 
 * Indentation
 * Syntax highlighting
-
-#### Meta
-
-* Primary maintainer: bakpakin
-* Status: Maintenance mode

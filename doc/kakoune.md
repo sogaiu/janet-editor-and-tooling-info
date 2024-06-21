@@ -17,7 +17,3 @@ Features include at least:
 * Linting
 * Formatting
 
-## Meta
-
-* Primary Maintainer: pepe
-* Status: Alpha

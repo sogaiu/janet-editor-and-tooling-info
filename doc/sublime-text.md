@@ -9,7 +9,3 @@ including features such as:
 * Running Janet code right from the editor
 * SublimeREPL integration
 
-## Meta
-
-* Primary Author: archydragon
-* Status: Unknown

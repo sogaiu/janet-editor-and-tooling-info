@@ -21,11 +21,6 @@ Indentation features can be had via
 Apart from indentation, syntax highlighting is also provided, though
 for the latter, using nvim-treesitter (see below) is another option.
 
-#### Meta
-
-* Primary maintainer: bakpakin
-* Status: Maintenance mode
-
 ## Syntax Highlighting
 
 Although janet.vim provides syntax highlighting, an alternative is to
@@ -34,10 +29,7 @@ use
 
 ### nvim-treesitter
 
-#### Meta
-
-* Maintainers: Dedicated folks :)
-* Status: Ongoing development
+The janet support in nvim-treesitter is limited to syntax highlighting.
 
 ## REPL Interaction
 
@@ -51,11 +43,6 @@ There are two ways to interact via REPL using conjure:
 * netrepl REPL
 * stdio-based REPL
 
-#### Meta
-
-* Primary maintainer: Olical
-* Status: Ongoing development
-
 ## Linting
 
 One way to get some linting of Janet code is via
@@ -65,7 +52,3 @@ One way to get some linting of Janet code is via
 
 There is built-in support for Janet in nvim-lint.
 
-#### Meta
-
-* Primary maintainer: mfussenegger
-* Status: Ongoing development

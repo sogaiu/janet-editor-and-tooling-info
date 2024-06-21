@@ -28,11 +28,6 @@ This major mode provides at least:
 If some bits don't quite work, it might be worth checking out the
 issues, PRs, and/or forks.
 
-#### Meta
-
-* Primary maintainer: ALSchwalm
-* Status: Unknown
-
 ### janet-ts-mode
 
 This major mode relies on the integrated tree-sitter support in Emacs
@@ -45,11 +40,6 @@ This major mode relies on the integrated tree-sitter support in Emacs
 * Structural navigation
 
 In addition, there are some experimental features which can be enabled.
-
-#### Meta
-
-* Primary maintainer: sogaiu
-* Status: Development ongoing
 
 ## REPL Support
 
@@ -75,28 +65,15 @@ Supports at least:
 
 In addition, there are some experimental features which can be enabled.
 
-##### Meta
-
-* Primary maintainer: sogaiu
-* Status: Development ongoing
-
 #### ijanet-mode
 
 Supports various `ijanet-eval-*` functions.
-
-##### Meta
-
-* Primary maintainer: SerialDev
-* Status: Unknown
 
 #### inf-janet
 
 Supports various `inf-janet-eval-*` functions.
 
 Currently has a hard-requirement on janet-mode.
-
-* Primary maintainer: velkyel
-* Status: Unknown
 
 ### netrepl-based REPL
 
@@ -111,31 +88,16 @@ connections:
 
 Supports netrepl connectivity and evaluation via Emacs Lisp.
 
-##### Meta
-
-* Primary maintainer: sogaiu
-* Status: Maintenance mode
-
 #### janet-netrepl
 
 Basic netrepl connectivity and evaluation via Emacs Lisp.
 
 Note: have not verified this works in-depth.
 
-##### Meta
-
-* Primary maintainer: yrns
-* Status: Unknown
-
 #### snr
 
 A simplified version of a-janet-spork-client that uses a proxy to
 avoid implementing the netrepl protocol in Emacs Lisp.
-
-##### Meta
-
-* Primary maintainer: sogaiu
-* Status: Experimental
 
 ## Linting
 
@@ -146,7 +108,3 @@ There is at least one Emacs Lisp package for linting Janet code:
 
 Integration of janet's built-in linter (`janet -k`) with Emacs via flycheck.
 
-#### Meta
-
-* Primary maintainer: sogaiu
-* Status: Feature-complete
