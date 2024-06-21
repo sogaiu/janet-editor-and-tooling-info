@@ -86,7 +86,7 @@ Supports various `ijanet-eval-*` functions.
 
 ##### Meta
 
-* Primary maintainer:
+* Primary maintainer: SerialDev
 * Status: Unknown
 
 #### inf-janet
