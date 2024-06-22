@@ -29,6 +29,7 @@ nvim-lint	mfussenegger	editor plugin	neovim	https://github.com/mfussenegger/nvim
 nvim-treesitter	community	editor plugin	neovim	https://github.com/nvim-treesitter/nvim-treesitter/	nvim-treesitter has syntax highlighting support for janet
 review-janet	sogaiu	linting		https://github.com/sogaiu/review-janet	linter that checks for additional things :)
 snr	sogaiu	editor plugin	emacs	https://github.com/sogaiu/snr	netrepl support for emacs
+spacemacs-janet-layer	5thWall	editor plugin	emacs	https://github.com/5thWall/spacemacs-janet-layer	spacemacs layer for janet
 spork/test	community	testing		https://github.com/sogaiu/janet-usages-as-tests	simple assertion-based testing library
 sublime-janet	archydragon	editor plugin	sublime text	https://github.com/archydragon/sublime-janet	janet language support for sublime-text
 testament	pyrmont	testing		https://github.com/pyrmont/testament/	testing library inspired by joy’s tester and clojure’s clojure.test libraries
