@@ -8,15 +8,15 @@ If you just want to see the information as a `.tsv` file,
 ## Development Styles
 
 It's possible to interact with a running janet process using what's
-traditionally referred to as a REPL connection.  However, since Janet
-start-up is on the quick side, it's often doable just to repeatedly
-start a succession of fresh Janet processes.
+traditionally referred to as a REPL connection.  However, since
+`janet` start-up is on the quick side, it's often doable just to
+repeatedly start a succession of fresh `janet` processes.
 
 See [here](doc/dev-styles.md) for more details.
 
 ## Editors and Such
 
-There is support for Janet (to varying degrees) in:
+There is support for Janet (to varying degrees) for:
 
 * [CudaText](doc/cudatext.md)
 * [Emacs](doc/emacs.md)
