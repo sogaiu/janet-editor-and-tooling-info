@@ -9,7 +9,6 @@ golden-master	yumaikas	testing		https://github.com/yumaikas/golden-master	golden
 helix	none	editor plugin	helix	https://github.com/helix-editor/helix	helix has built in support for janet
 ijanet-mode	SerialDev	editor plugin	emacs	https://github.com/SerialDev/ijanet-mode	stdio repl support for emacs
 inf-janet	velkyel	editor plugin	emacs	https://github.com/velkyel/inf-janet	stdio repl support for emacs
-jakoune	pepe	editor plugin	kakoune	https://git.sr.ht/~pepe/jakoune	set of opionated configuration and helper scripts for kakoune
 jandent	sogaiu	formatting		https://github.com/sogaiu/jandent	formatter that maintains some whitespace
 janet -k	bakpakin	linting		https://github.com/janet-lang/janet/blob/dc325188d064f22e4a128b892eaf919289936eac/src/boot/boot.janet#L3953-L3967	janet’s built-in linter functionality
 janet’s test suite	bakpakin	testing		https://github.com/janet-lang/janet/tree/master/test	simple assertion-based testing
@@ -22,7 +21,6 @@ janet-pegdoc	sogaiu	reference		https://github.com/sogaiu/janet-pegdoc	view docs 
 janet-ref	sogaiu	reference		https://github.com/sogaiu/janet-ref	view docstrings and examples of janet functions at the terminal
 janet-ts-mode	sogaiu	editor plugin	emacs	https://github.com/sogaiu/janet-ts-mode	tree-sitter based janet support for emacs
 janet-usages-as-tests	sogaiu	testing		https://github.com/sogaiu/janet-usages-as-tests	treat example usages as tests
-janet.kak	pepe	editor plugin	kakoune	https://github.com/pepe/janet.kak	barebone janet language mode for kakoune
 janet.vim	bakpakin	editor plugin	vim / neovim	https://github.com/janet-lang/janet.vim	janet support for vim
 jdoc	sogaiu	reference		https://github.com/sogaiu/jdoc	conveniently see janet docstrings via the command line
 judge	ianthehenry	testing		https://github.com/ianthehenry/judge	inline snapshot test library
