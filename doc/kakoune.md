@@ -2,8 +2,22 @@
 
 Kakoune has built-in support for syntax highlighting of Janet code.
 
-There is at least one package that provides some additional features:
-[JaKoune](https://git.sr.ht/~pepe/jakoune).
+There are at least two packages that provides some additional features:
+
+* [janet.kak](https://github.com/pepe/janet.kak)
+* [JaKoune](https://git.sr.ht/~pepe/jakoune)
+
+## janet.kak
+
+> barebone Janet language mode
+
+Features include at least:
+
+* View docstrings
+* Surround-by-delimiters
+* Common snippets
+* Formatting
+* Linting
 
 ## JaKoune
 

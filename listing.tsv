@@ -22,6 +22,7 @@ janet-pegdoc	sogaiu	reference		https://github.com/sogaiu/janet-pegdoc	view docs 
 janet-ref	sogaiu	reference		https://github.com/sogaiu/janet-ref	view docstrings and examples of janet functions at the terminal
 janet-ts-mode	sogaiu	editor plugin	emacs	https://github.com/sogaiu/janet-ts-mode	tree-sitter based janet support for emacs
 janet-usages-as-tests	sogaiu	testing		https://github.com/sogaiu/janet-usages-as-tests	treat example usages as tests
+janet.kak	pepe	editor plugin	kakoune	https://github.com/pepe/janet.kak	barebone janet language mode for kakoune
 janet.vim	bakpakin	editor plugin	vim / neovim	https://github.com/janet-lang/janet.vim	janet support for vim
 jdoc	sogaiu	reference		https://github.com/sogaiu/jdoc	conveniently see janet docstrings via the command line
 judge	ianthehenry	testing		https://github.com/ianthehenry/judge	inline snapshot test library
