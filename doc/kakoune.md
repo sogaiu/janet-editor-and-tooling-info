@@ -1,6 +1,7 @@
 # Kakoune
 
-Kakoune has built-in Janet support for at least:
+[Kakoune](https://github.com/mawww/kakoune) has built-in Janet support
+for at least:
 
 * Syntax highlighting
 * Indentation
