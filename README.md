@@ -52,6 +52,10 @@ seen some use of:
 
 * LSP - [CFiggers' janet-lsp](https://github.com/CFiggers/janet-lsp)
 
+* Syntax Highlighting
+  * [pygments](https://github.com/pygments/pygments)
+  * [rouge](https://github.com/rouge-ruby/rouge)
+
 * tree-sitter - [tree-sitter-janet-simple](https://github.com/sogaiu/tree-sitter-janet-simple)
 
 ## Testing
