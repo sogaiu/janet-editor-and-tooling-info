@@ -1,6 +1,6 @@
 # Sublime Text
 
-There is support for Sublime Text via the
+There is Janet support for Sublime Text via the
 [sublime-janet](https://github.com/archydragon/sublime-janet) package
 including features such as:
 

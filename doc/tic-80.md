@@ -10,5 +10,4 @@
 > a mini retro game.
 
 One can write games in a variety of languages (including Janet!) using
-its built-in editor.
-
+its built-in editor which has some support for Janet too.

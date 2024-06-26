@@ -1,6 +1,7 @@
 # VSCode
 
-There are at least two extensions available for VSCode:
+There are at least two extensions that provide some Janet support
+available for VSCode:
 
 * Janet aka [vscode-janet](https://github.com/janet-lang/vscode-janet)
 * Janet++ [vscode-janet-plus-plus](https://github.com/CFiggers/vscode-janet-plus-plus)
