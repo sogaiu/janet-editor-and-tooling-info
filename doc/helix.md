@@ -5,5 +5,5 @@ Helix started shipping with Janet support since
 and includes features such as:
 
 * Syntax highlighting
-* Formatting
+* Formatting (via `janet-format` which comes with `spork`)
 
