@@ -3,17 +3,17 @@
 There are at least two extensions that provide some Janet support
 available for VSCode:
 
-* Janet aka [vscode-janet](https://github.com/janet-lang/vscode-janet)
-* Janet++ [vscode-janet-plus-plus](https://github.com/CFiggers/vscode-janet-plus-plus)
+* [vscode-janet](https://github.com/janet-lang/vscode-janet)
+* [vscode-janet-plus-plus](https://github.com/CFiggers/vscode-janet-plus-plus)
 
-## Janet / vscode-janet
+## vscode-janet
 
 This extension is the simpler of the two providing:
 
 * Syntax highlighting
 * Evaluation of expressions and files
 
-## Janet++ / vscode-janet-plus-plus
+## vscode-janet-plus-plus
 
 This extension is based on vscode-janet with additions including:
 
