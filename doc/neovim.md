@@ -29,7 +29,7 @@ use
 
 ### nvim-treesitter
 
-The janet support in nvim-treesitter is limited to syntax highlighting.
+The Janet support in nvim-treesitter is limited to syntax highlighting.
 
 ## REPL Interaction
 
