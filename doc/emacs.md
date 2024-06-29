@@ -52,12 +52,13 @@ netrepl-based.
 
 ### Stdio-based REPL
 
-There are at least three implementations of stdio-based REPL
+There are at least four implementations of stdio-based REPL
 connections:
 
 * [ajrepl](https://github.com/sogaiu/ajrepl)
 * [ijanet-mode](https://github.com/SerialDev/ijanet-mode)
 * [inf-janet](https://github.com/velkyel/inf-janet)
+* [inf-janet](https://github.com/mpwillson/emacs/blob/main/inf-janet.el)
 
 #### ajrepl
 
@@ -75,9 +76,26 @@ Supports various `ijanet-eval-*` functions.
 
 #### inf-janet
 
+There are at least two `inf-janet`s.  An older one which looks to be have
+been based on `inf-lisp.el` and a more recent one that was based on
+`inf-clojure.el`.
+
+Note that they both require janet-mode.
+
+##### inf-lisp.el based
+
 Supports various `inf-janet-eval-*` functions.
 
-Currently has a hard-requirement on janet-mode.
+##### inf-clojure.el based
+
+Has support for at least:
+
+* Various evaluation functions
+* "Loading" a file (uses `import`)
+* Displaying docstrings
+* Completion
+* Multiple janet process support
+* Menu
 
 ### netrepl-based REPL
 

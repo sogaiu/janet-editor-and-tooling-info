@@ -9,6 +9,7 @@ golden-master	yumaikas	testing		https://github.com/yumaikas/golden-master	golden
 helix	none	editor plugin	helix	https://github.com/helix-editor/helix	helix has built in support for janet
 ijanet-mode	SerialDev	editor plugin	emacs	https://github.com/SerialDev/ijanet-mode	stdio repl support for emacs
 inf-janet	velkyel	editor plugin	emacs	https://github.com/velkyel/inf-janet	stdio repl support for emacs
+inf-janet	mpwillson	editor plugin	emacs	https://github.com/mpwillson/emacs/blob/main/inf-janet.el	stdio repl support for emacs
 jandent	sogaiu	formatting		https://github.com/sogaiu/jandent	formatter that maintains some whitespace
 janet -k	bakpakin	linting		https://github.com/janet-lang/janet/blob/dc325188d064f22e4a128b892eaf919289936eac/src/boot/boot.janet#L3953-L3967	janet’s built-in linter functionality
 janet’s test suite	bakpakin	testing		https://github.com/janet-lang/janet/tree/master/test	simple assertion-based testing
