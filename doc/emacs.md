@@ -57,8 +57,8 @@ connections:
 
 * [ajrepl](https://github.com/sogaiu/ajrepl)
 * [ijanet-mode](https://github.com/SerialDev/ijanet-mode)
-* [inf-janet](https://github.com/velkyel/inf-janet)
-* [inf-janet](https://github.com/mpwillson/emacs/blob/main/inf-janet.el)
+* [inf-janet](https://github.com/velkyel/inf-janet) by velkyel
+* [inf-janet](https://github.com/mpwillson/emacs/blob/main/inf-janet.el) by mpwillson
 
 #### ajrepl
 
