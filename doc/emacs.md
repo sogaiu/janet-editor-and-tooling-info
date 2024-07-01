@@ -17,7 +17,7 @@ may be a simple way to get a taste of what's possible without having
 to gather a bunch of packages and perform a lot of configuration
 upfront.
 
-If you're a Spacemacs user, you might find
+In addition, if you're a Spacemacs user, you might find
 [spacemacs-janet-layer](https://github.com/5thWall/spacemacs-janet-layer)
 to be of interest.
 
