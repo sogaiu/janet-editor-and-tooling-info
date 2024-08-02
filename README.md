@@ -28,10 +28,9 @@ There is support for Janet (to varying degrees) for:
 * [Vim](doc/vim.md)
 * [VSCode](doc/vscode.md)
 
-## Editor-Independent Tooling
+## Editor-Independent Tooling and Bits
 
-Below are some editor-independent tools with Janet support that I've
-seen some use of:
+Below are some editor-independent tooling and bits with Janet support:
 
 * Diffing - [difftastic](https://github.com/Wilfred/difftastic)
 
@@ -45,12 +44,16 @@ seen some use of:
   * `janet -k` aka [`flycheck` in `boot.janet`](https://github.com/janet-lang/janet/blob/dc325188d064f22e4a128b892eaf919289936eac/src/boot/boot.janet#L3953-L3967)
   * [review-janet](https://github.com/sogaiu/review-janet)
 
-* Misc Reference Helpers
+* LSP - [CFiggers' janet-lsp](https://github.com/CFiggers/janet-lsp)
+
+* PEG
   * [janet-pegdoc](https://github.com/sogaiu/janet-pegdoc)
+  * [margaret](https://github.com/sogaiu/margaret)
+  * [small-peg-tracer](https://github.com/sogaiu/small-peg-tracer)
+
+* Reference
   * [janet-ref](https://github.com/sogaiu/janet-ref)
   * [jdoc](https://github.com/sogaiu/jdoc)
-
-* LSP - [CFiggers' janet-lsp](https://github.com/CFiggers/janet-lsp)
 
 * Syntax Highlighting
   * [pygments](https://github.com/pygments/pygments)
@@ -86,6 +89,13 @@ Some testing options include:
     testing library for Janet."
 
   * [janet-usages-as-tests](https://github.com/sogaiu/janet-usages-as-tests) - simple usage examples that work as tests
+
+## Benchmarking, Timing, Profiling
+
+* [arnie](https://github.com/pyrmont/arnie) - run benchmarks on janet binaries
+* [janet-benchmarksgame](https://github.com/MikeBeller/janet-benchmarksgame) - versions of the "computer language benchmarks game" benchmarks for janet
+* spork's [timeit and timeit-loop](https://github.com/janet-lang/spork/blob/70f1a47281218ea21cfb81292e36a79b0c44e59c/spork/test.janet#L61-L103) - form execution timing
+* [janet-profiling](https://github.com/saikyun/janet-profiling) - profiling of janet forms
 
 ## Credits
 

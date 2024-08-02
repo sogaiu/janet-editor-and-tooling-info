@@ -1,7 +1,8 @@
-name	maintainer	category	plugin for	url	description
+name	maintainer	category	misc	url	description
 a-janet-spork-client	sogaiu	editor plugin	emacs	https://github.com/sogaiu/a-janet-spork-client	netrepl support for emacs
 ajrepl	sogaiu	editor plugin	emacs	https://github.com/sogaiu/ajrepl	stdio repl support for emacs
-conjure	Olical	netrepl	neovim	https://github.com/Olical/conjure/	interactive environment for evaluating code within your running program
+arnie	pyrmont	benchmarking		https://github.com/pyrmont/arnie	run benchmarks on janet binaries
+conjure	Olical	netrepl	neovim	https://github.com/Olical/conjure	interactive environment for evaluating code within your running program
 cudatext	Alexey-T	editor plugin	cudatext	https://github.com/janet-lang/janet/issues/1107	support for janet can be installed from addons manager
 difftastic	Wilfred	diffing		https://github.com/Wilfred/difftastic	structural diff tool that compares files based on their syntax
 flycheck-janet	sogaiu	editor plugin	emacs	https://github.com/sogaiu/flycheck-janet	janet -k linting integrated into emacs via flycheck
@@ -13,29 +14,34 @@ inf-janet	mpwillson	editor plugin	emacs	https://github.com/mpwillson/emacs/blob/
 jandent	sogaiu	formatting		https://github.com/sogaiu/jandent	formatter that maintains some whitespace
 janet -k	bakpakin	linting		https://github.com/janet-lang/janet/blob/dc325188d064f22e4a128b892eaf919289936eac/src/boot/boot.janet#L3953-L3967	janet’s built-in linter functionality
 janet’s test suite	bakpakin	testing		https://github.com/janet-lang/janet/tree/master/test	simple assertion-based testing
+janet-benchmarksgame	MikeBeller	benchmarking		https://github.com/MikeBeller/janet-benchmarksgame	"versions of the ""computer language benchmarks game"" benchmarks for janet"
 janet-format	bakpakin	formatting		https://github.com/janet-lang/spork/blob/master/bin/janet-format	formatter included with spork
 janet-lsp	CFiggers	lsp		https://github.com/CFiggers/janet-lsp	lsp server for janet
 janet-mode	ALSchwalm	editor plugin	emacs	https://github.com/ALSchwalm/janet-mode/	janet support for emacs
 janet-netrepl	bakpakin	netrepl		https://github.com/janet-lang/spork/blob/master/bin/janet-netrepl	netrepl client / server script included with spork
 janet-netrepl	yrns	editor plugin	emacs	https://github.com/yrns/janet-netrepl	netrepl support for emacs
-janet-pegdoc	sogaiu	reference		https://github.com/sogaiu/janet-pegdoc	view docs and examples of peg specials at the terminal
+janet-pegdoc	sogaiu	peg		https://github.com/sogaiu/janet-pegdoc	view docs and examples of peg specials at the terminal
+janet-profiling	saikyun	profiling		https://github.com/saikyun/janet-profiling	profiling of janet forms
 janet-ref	sogaiu	reference		https://github.com/sogaiu/janet-ref	view docstrings and examples of janet functions at the terminal
 janet-ts-mode	sogaiu	editor plugin	emacs	https://github.com/sogaiu/janet-ts-mode	tree-sitter based janet support for emacs
 janet-usages-as-tests	sogaiu	testing		https://github.com/sogaiu/janet-usages-as-tests	treat example usages as tests
 janet.vim	bakpakin	editor plugin	vim / neovim	https://github.com/janet-lang/janet.vim	janet support for vim
 jdoc	sogaiu	reference		https://github.com/sogaiu/jdoc	conveniently see janet docstrings via the command line
 judge	ianthehenry	testing		https://github.com/ianthehenry/judge	inline snapshot test library
+margaret	sogaiu	peg		https://github.com/sogaiu/margaret	janet implementation of peg with usage examples
 nvim-lint	mfussenegger	editor plugin	neovim	https://github.com/mfussenegger/nvim-lint	nvim-lint has built in support for janet
 nvim-treesitter	community	editor plugin	neovim	https://github.com/nvim-treesitter/nvim-treesitter/	nvim-treesitter has syntax highlighting support for janet
 pygments	community	syntax highlighting		https://github.com/pygments/pygments	generic syntax highlighter written in python
-review-janet	sogaiu	linting		https://github.com/sogaiu/review-janet	linter that checks for additional things :)
+review-janet	sogaiu	linting		https://github.com/sogaiu/review-janet	linter that checks for additional things
 rouge	community	syntax highlighting		https://github.com/rouge-ruby/rouge	pure ruby code highlighter
+small-peg-tracer	sogaiu	peg		https://github.com/sogaiu/small-peg-tracer	netrepl support for emacs
 snr	sogaiu	editor plugin	emacs	https://github.com/sogaiu/snr	netrepl support for emacs
 spacemacs-janet-layer	5thWall	editor plugin	emacs	https://github.com/5thWall/spacemacs-janet-layer	spacemacs layer for janet
 spork/test	community	testing		https://github.com/sogaiu/janet-usages-as-tests	simple assertion-based testing library
 sublime-janet	archydragon	editor plugin	sublime text	https://github.com/archydragon/sublime-janet	janet language support for sublime-text
 testament	pyrmont	testing		https://github.com/pyrmont/testament/	testing library inspired by joy’s tester and clojure’s clojure.test libraries
 tic-80	AlexTroemel	editor plugin	tic-80	https://github.com/nesbox/TIC-80/	tic-80 games can be written in janet and its integrated editor has support for janet
+timeit and timeit-loop	primo-ppcg	timing		https://github.com/janet-lang/spork/blob/master/spork/test.janet	form execution timing
 tree-sitter-janet-simple	sogaiu	tree-sitter		https://github.com/sogaiu/tree-sitter-janet-simple	a simple tree-sitter grammar for janet
 vscode-janet	bakpakin	editor plugin	vscode	https://github.com/janet-lang/vscode-janet	janet language support for vscode
 vscode-janet-plus-plus	CFiggers	editor plugin	vscode	https://github.com/CFiggers/vscode-janet-plus-plus	janet language support for vscode with additional features such as auto-formatting, structural editing and navigation. lsp, etc.
