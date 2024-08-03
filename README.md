@@ -88,7 +88,7 @@ Some testing options include:
     "[golden-master](https://en.wikipedia.org/wiki/Characterization_test)
     testing library for Janet."
 
-  * [janet-usages-as-tests](https://github.com/sogaiu/janet-usages-as-tests) - simple usage examples that work as tests
+  * [janet-ex-as-tests](https://github.com/sogaiu/janet-ex-as-tests) - simple example invoactions that work as tests
 
 ## Benchmarking, Timing, Profiling
 
