@@ -67,8 +67,8 @@ Some testing options include:
 
 * Simple assertion-based using `assert` and friends
 
-  * [janet does
-    this](https://github.com/janet-lang/janet/tree/f95de25b15e62cd54ad2bb676281a1321a823411/test)
+  * janet does
+    [this](https://github.com/janet-lang/janet/tree/f95de25b15e62cd54ad2bb676281a1321a823411/test)
 
   * [spork/test](https://github.com/janet-lang/spork/blob/c1953f6d01cedfaea78a0c54b7748e33823a8592/spork/test.janet)
     (evolved from above?)
@@ -88,7 +88,7 @@ Some testing options include:
     "[golden-master](https://en.wikipedia.org/wiki/Characterization_test)
     testing library for Janet."
 
-  * [janet-ex-as-tests](https://github.com/sogaiu/janet-ex-as-tests) - simple example invoactions that work as tests
+  * [janet-ex-as-tests](https://github.com/sogaiu/janet-ex-as-tests) - simple example invocations that work as tests
 
 ## Benchmarking, Timing, Profiling
 
