@@ -1,18 +1,21 @@
 # Janet Editor and Tooling Info
 
-## One Big List
+Mostly a collection of editor and tooling info for use with the Janet
+programming language
 
-If you just want to see the information as a `.tsv` file,
-[here](listing.tsv) you go :)
+## Background
 
-## Development Styles
-
-It's possible to interact with a running janet process using what's
+It's possible to interact with a running `janet` process using what's
 traditionally referred to as a REPL connection.  However, since
 `janet` start-up is on the quick side, it's often doable just to
 repeatedly start a succession of fresh `janet` processes.
 
 See [here](doc/dev-styles.md) for more details.
+
+## One Big List
+
+If you just want to see the information as a `.tsv` file,
+[here](listing.tsv) you go :)
 
 ## Editors and Such
 
