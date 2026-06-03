@@ -91,7 +91,7 @@ Some testing options include:
     "[golden-master](https://en.wikipedia.org/wiki/Characterization_test)
     testing library for Janet."
 
-  * [janet-ex-as-tests](https://github.com/sogaiu/janet-ex-as-tests) - simple example invocations that work as tests
+  * [niche](https://github.com/sogaiu/niche) - Nimly Interpret Comment-Hidden Expressions - simple example invocations that work as tests
 
 ## Benchmarking, Timing, Profiling
 
