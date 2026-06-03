@@ -50,12 +50,12 @@ Below are some editor-independent tooling and bits with Janet support:
 * LSP - [CFiggers' janet-lsp](https://github.com/CFiggers/janet-lsp)
 
 * PEG
-  * [janet-pegdoc](https://github.com/sogaiu/janet-pegdoc)
   * [margaret](https://github.com/sogaiu/margaret)
+  * [pdoc](https://github.com/sogaiu/pdoc)
   * [small-peg-tracer](https://github.com/sogaiu/small-peg-tracer)
 
 * Reference
-  * [janet-ref](https://github.com/sogaiu/janet-ref)
+  * [jref](https://github.com/sogaiu/jref)
   * [jdoc](https://github.com/sogaiu/jdoc)
 
 * Syntax Highlighting
